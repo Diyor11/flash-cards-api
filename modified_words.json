@@ -1,0 +1,6632 @@
+[
+  {
+    "wordId": 2070,
+    "word": "гро'зный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "formidable, menacing/terrifying/fear inducing, terrible",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2071,
+    "word": "корми'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "feed",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2074,
+    "word": "желе'зо",
+    "type": "noun",
+    "level": "C1",
+    "translations": "iron",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2075,
+    "word": "напра'виться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "be headed",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2076,
+    "word": "рассчи'тывать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "count on or depend on",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2078,
+    "word": "тьма",
+    "type": "noun",
+    "level": "C1",
+    "translations": "darkness",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2079,
+    "word": "расположи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "dispose, have available, intend, propose, set, gain, win over, group, put st (in order)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2081,
+    "word": "усла'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "send away",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2083,
+    "word": "шесто'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "sixth",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2084,
+    "word": "тща'тельно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "carefully and thoroughly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2087,
+    "word": "ра'вный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "equal",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2090,
+    "word": "по'весть",
+    "type": "noun",
+    "level": "C1",
+    "translations": "novel, narrative, tale, story",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2096,
+    "word": "уважа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to respect, esteem, have respect, hold in respect",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2097,
+    "word": "угро'за",
+    "type": "noun",
+    "level": "C1",
+    "translations": "threat, menace, risk, danger",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2100,
+    "word": "гру'бый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "rude, rough or coarse",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2106,
+    "word": "повести'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "lead, conduct, direct, wiggle, behave, drive",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2111,
+    "word": "попада'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to hit (a target), enter, to get, fetch up, hit upon, to find oneself in, to end up in",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2112,
+    "word": "покача'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "shake",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2113,
+    "word": "ткань",
+    "type": "noun",
+    "level": "C1",
+    "translations": "fabric",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2116,
+    "word": "путём",
+    "type": "other",
+    "level": "C1",
+    "translations": "by means of, by dint of, properly, by way of",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2117,
+    "word": "переходи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "get across, get over, cross, get, pass on, pass, turn, convert, click, switch, proceed (to)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2123,
+    "word": "гнать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "drive/force to move, distill, persecute",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2124,
+    "word": "плыть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "swim, float/sail",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2126,
+    "word": "наступа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "step on, arrive (in time), come (in time), set in, begin, attack, advance, to be",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2127,
+    "word": "парти'йный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "(relational) party, loyal to the party line",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2130,
+    "word": "подхвати'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "catch, pick up, catch up",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2131,
+    "word": "ито'г",
+    "type": "noun",
+    "level": "C1",
+    "translations": "result (sum), total, outcome",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2133,
+    "word": "исчеза'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "disappear, vanish, wear off",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2136,
+    "word": "заседа'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "meeting",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2141,
+    "word": "обра'доваться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to be happy",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2145,
+    "word": "вы'яснить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to figure out",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2148,
+    "word": "отвести'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "take, lead, parry, ward off, challenge, allot, set aside, remove, reject",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2151,
+    "word": "ро'вный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "smooth even or flat, even straight without bends, even-tempered",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2152,
+    "word": "переби'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "To interrupt, kill, slaughter, slay, break",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2153,
+    "word": "удава'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to be a success, to manage to do",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2154,
+    "word": "цепь",
+    "type": "noun",
+    "level": "C1",
+    "translations": "chain",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2158,
+    "word": "задержа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "detain, delay, arrest, be behindhand, retard, hamper, hold, keep",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2163,
+    "word": "уваже'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "respect, esteem, consideration, regard",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2165,
+    "word": "пот",
+    "type": "noun",
+    "level": "C1",
+    "translations": "sweat",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2168,
+    "word": "перехо'д",
+    "type": "noun",
+    "level": "C1",
+    "translations": "transition, change, crossing, march, passing, crossing",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2169,
+    "word": "вы'нести",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to carry out, take out, bring out, remove, to transfer, to get, acquire, to submit, to pass, render, pronounce (verdict or decision), to endure, bear, sustain, stand",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2171,
+    "word": "бег",
+    "type": "noun",
+    "level": "C1",
+    "translations": "running",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2172,
+    "word": "спуска'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "go down",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2176,
+    "word": "столб",
+    "type": "noun",
+    "level": "C1",
+    "translations": "post pole or pillar",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2180,
+    "word": "не'жный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "tender gentle delicate (adj)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2181,
+    "word": "подозрева'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to suspect",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2182,
+    "word": "вещество'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "substance, material, agent, matter",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2184,
+    "word": "ра'достно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "With joy, happily",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2187,
+    "word": "валя'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to wallow or lie around, to roll around, roll side to side",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2189,
+    "word": "заме'тно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "it is noticeable, one can see, noticeably, appreciably",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2190,
+    "word": "поле'зный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "useful, helpful, healthy, good, wholesome, benefited",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2195,
+    "word": "нали'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to pour or fill up",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2199,
+    "word": "шути'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to joke",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2203,
+    "word": "огля'дываться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to look back, to look around",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2205,
+    "word": "стари'нный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "antique, age-old, old, old-fashioned, ancient",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2206,
+    "word": "потре'бовать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "demand, need, call, require, expect, summons",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2208,
+    "word": "попа'сться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to be caught, fall for, to come across, catch eye, chance upon, meet",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2209,
+    "word": "отозва'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to speak of someone, to echo/respond",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2212,
+    "word": "ра'неный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "wounded",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2213,
+    "word": "води'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to lead (take) someone/something (by foot), to drive (a vehicle)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2214,
+    "word": "погля'дывать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "cast a glance, look, keep an eye",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2215,
+    "word": "стрело'к",
+    "type": "noun",
+    "level": "C1",
+    "translations": "shooter",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2216,
+    "word": "жест",
+    "type": "noun",
+    "level": "C1",
+    "translations": "gesture, sign, motion",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2219,
+    "word": "вы'ступить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to protrude, to set out (go), to perform, to oppose publicly, to advocate for",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2220,
+    "word": "мра'чный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "Gloomy, grim",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2221,
+    "word": "эпо'ха",
+    "type": "noun",
+    "level": "C1",
+    "translations": "epoch, age, era, period in history",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2225,
+    "word": "выдава'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "To hand out or distribute (in an informal context), To reveal/ show, expose, or give away (emotions, thoughts, secrets), To issue, give out, or provide (documents, items, cards, etc.), represent, impersonate, pose",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2226,
+    "word": "пробормота'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "mutter, mumble",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2227,
+    "word": "переда'ча",
+    "type": "noun",
+    "level": "C1",
+    "translations": "transmission, TV program, broadcast, transferring",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2228,
+    "word": "вы'рваться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "break loose or tear oneself away, burst",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2231,
+    "word": "пропусти'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "miss (out), let pass / let go past, skip",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2235,
+    "word": "обя'занность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "duty",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2236,
+    "word": "волне'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "excitement, emotion, unrest, agitation",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2237,
+    "word": "щель",
+    "type": "noun",
+    "level": "C1",
+    "translations": "gap slit crack",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2239,
+    "word": "у'зел",
+    "type": "noun",
+    "level": "C1",
+    "translations": "knot, node, hub, junction, unit, assembly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2240,
+    "word": "гроб",
+    "type": "noun",
+    "level": "C1",
+    "translations": "coffin, grave",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2241,
+    "word": "сверну'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "turn, wrap tightly, roll up, curtail, reduce, cut down, turn",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2242,
+    "word": "непреме'нно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "at all costs or in any case or certainly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2243,
+    "word": "скро'мный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "modest, humble, unassuming, lowly, frugal, unpretentious",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2244,
+    "word": "прислу'шиваться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "listen, lend ear, cock an ear",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2245,
+    "word": "реда'кция",
+    "type": "noun",
+    "level": "C1",
+    "translations": "edition, editorial staff, editorial office, editorship",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2248,
+    "word": "распоряже'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "instruction (order), disposal",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2252,
+    "word": "две'рца",
+    "type": "noun",
+    "level": "C1",
+    "translations": "(small) door",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2253,
+    "word": "многочи'сленный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "numerous",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2259,
+    "word": "разреше'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "permission",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2262,
+    "word": "заду'мчиво",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "pensively, thoughtfully",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2263,
+    "word": "броди'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to wander",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2265,
+    "word": "прису'тствие",
+    "type": "noun",
+    "level": "C1",
+    "translations": "presence",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2266,
+    "word": "вооружённый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "armed, possessed, in possession",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2269,
+    "word": "присе'сть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to crouch or squat",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2271,
+    "word": "спра'виться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "deal with smth",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2279,
+    "word": "засну'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "fall asleep",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2280,
+    "word": "посту'пок",
+    "type": "noun",
+    "level": "C1",
+    "translations": "act action or deed",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2284,
+    "word": "разби'тый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "broken (adj)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2285,
+    "word": "вчера'шний",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "yesterday (adj)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2286,
+    "word": "захоте'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to want, tempt",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2287,
+    "word": "кла'дбище",
+    "type": "noun",
+    "level": "C1",
+    "translations": "cemetery, burial-ground, graveyard, church yard",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2289,
+    "word": "пове'сить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "hang up, hang ( что? куда?)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2290,
+    "word": "вы'браться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "get out from somewhere, escape",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2291,
+    "word": "шанс",
+    "type": "noun",
+    "level": "C1",
+    "translations": "chance",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2293,
+    "word": "стару'шка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "old lady, old woman, old dame",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2294,
+    "word": "кори'чневый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "brown",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2295,
+    "word": "наблюде'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "observation",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2299,
+    "word": "оби'деться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "take offense, be offended, be hurt, resent",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2301,
+    "word": "произноси'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to pronounce",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2304,
+    "word": "винто'вка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "rifle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2307,
+    "word": "пло'тный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "dense, compact, solidly built",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2308,
+    "word": "освети'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "light up highlight illuminate",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2310,
+    "word": "дости'гнуть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "reach, attain, achieve, mount",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2311,
+    "word": "опусти'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "fall/go down, descend, ommited",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2312,
+    "word": "посыла'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to send, dispatch",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2313,
+    "word": "подобра'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "pick up, tuck up, sort out, select, glean",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2315,
+    "word": "распахну'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "plough up, till, open wide",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2316,
+    "word": "исключи'тельно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "exclusively",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2321,
+    "word": "це'нность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "value",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2322,
+    "word": "обеспе'чить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to provide",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2323,
+    "word": "сто'ящий",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "worthwhile, worth doing, standing, not seated",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2327,
+    "word": "душе'вный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "spiritual/soulful, mental/peace",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2328,
+    "word": "набра'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "dial, gain, accumulate, put on, score",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2330,
+    "word": "пла'мя",
+    "type": "noun",
+    "level": "C1",
+    "translations": "flame",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2332,
+    "word": "задава'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to set, assign, to ask",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2336,
+    "word": "доста'вить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to deliver, to give or procure",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2341,
+    "word": "ве'чно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "eternally",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2343,
+    "word": "не'нависть",
+    "type": "noun",
+    "level": "C1",
+    "translations": "hate, detestation, abhorrence",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2344,
+    "word": "оте'чественный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "native, home, patriotic, belonging to mother-fatherland",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2345,
+    "word": "со'бственность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "property or ownership",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2346,
+    "word": "пили'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to saw, to nag, pester",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2349,
+    "word": "дар",
+    "type": "noun",
+    "level": "C1",
+    "translations": "gift",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2352,
+    "word": "ползти'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "crawl (snake), spread rumors",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2354,
+    "word": "отверну'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to turn away",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2355,
+    "word": "дра'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "fight",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2356,
+    "word": "поинтересова'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to inquire/ask",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2358,
+    "word": "перо'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "feather, plume, pen",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2360,
+    "word": "владе'лец",
+    "type": "noun",
+    "level": "C1",
+    "translations": "owner",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2363,
+    "word": "сыро'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "uncooked, raw, damp, crude",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2364,
+    "word": "знако'мство",
+    "type": "noun",
+    "level": "C1",
+    "translations": "acquaintance",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2365,
+    "word": "сла'бость",
+    "type": "noun",
+    "level": "C1",
+    "translations": "weakness",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2366,
+    "word": "приобрести'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "acquire, gain, , purchase, buy",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2367,
+    "word": "отка'зываться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to refuse, decline, repudiate, renounce, give up, abdicate, relinquish, to abstain from, to abandon",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2371,
+    "word": "незаме'тно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "it does not show, it does not look as if, imperceptibly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2374,
+    "word": "освободи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "free, liberate, release",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2377,
+    "word": "степь",
+    "type": "noun",
+    "level": "C1",
+    "translations": "steppe / veld",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2378,
+    "word": "осо'бо",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "really, particularly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2381,
+    "word": "ту'ча",
+    "type": "noun",
+    "level": "C1",
+    "translations": "cloud, storm-cloud, swarm, host",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2382,
+    "word": "поясни'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "elaborate, clarify, explain",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2383,
+    "word": "како'в",
+    "type": "other",
+    "level": "C1",
+    "translations": "what",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2385,
+    "word": "взвод",
+    "type": "noun",
+    "level": "C1",
+    "translations": "platoon, section, troop, recess, notch",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2386,
+    "word": "предположи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "assume, mentally allow possibility of something, presume, imply, suppose",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2394,
+    "word": "склон",
+    "type": "noun",
+    "level": "C1",
+    "translations": "hillside, slope",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2396,
+    "word": "пушо'к",
+    "type": "noun",
+    "level": "C1",
+    "translations": "fluff, bloom",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2399,
+    "word": "подгото'вить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to prepare, to make ready, to train",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2402,
+    "word": "передава'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to transmit, to pass, to deliver",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2403,
+    "word": "поддержа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "support, keep/hold up and not let fall",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2405,
+    "word": "гвоздь",
+    "type": "noun",
+    "level": "C1",
+    "translations": "nail",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2407,
+    "word": "сложи'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "get an impression",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2408,
+    "word": "заора'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "scream",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2409,
+    "word": "я'кобы",
+    "type": "other",
+    "level": "C1",
+    "translations": "as if /as though / allegedly / supposedly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2410,
+    "word": "ружьё",
+    "type": "noun",
+    "level": "C1",
+    "translations": "shotgun, gun, rifle (common in use but not quite correct, see info tag)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2413,
+    "word": "ра'зум",
+    "type": "noun",
+    "level": "C1",
+    "translations": "mind, reason, intelligence",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2414,
+    "word": "погоди'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "wait a second, hold on, hold it, wait a little",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2415,
+    "word": "тро'гать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "touch, disturb, affect, move (emotionally)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2416,
+    "word": "бла'го",
+    "type": "noun",
+    "level": "C1",
+    "translations": "blessing, boon, since, good",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2417,
+    "word": "назначе'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "appointment, purpose, destination",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2418,
+    "word": "сия'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "shine",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2419,
+    "word": "увы'",
+    "type": "other",
+    "level": "C1",
+    "translations": "alas",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2420,
+    "word": "усе'сться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "take a seat, take seats, seat oneself, find a seat, find seats, find room, set",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2424,
+    "word": "неви'димый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "invisible",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2426,
+    "word": "подборо'док",
+    "type": "noun",
+    "level": "C1",
+    "translations": "chin",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2429,
+    "word": "арестова'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "arrest",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2433,
+    "word": "ощути'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "feel/sense",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2436,
+    "word": "проща'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to forgive, to excuse, to pardon",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2437,
+    "word": "посвяти'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to devote, dedicate",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2438,
+    "word": "вслух",
+    "type": "other",
+    "level": "C1",
+    "translations": "aloud",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2439,
+    "word": "действи'тельность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "reality",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2440,
+    "word": "за'яц",
+    "type": "noun",
+    "level": "C1",
+    "translations": "hare, rabbit, bunny., stowaway, gate-crasher.",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2442,
+    "word": "представля'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "present itself, arise, occur, seem, introduce oneself",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2444,
+    "word": "потяну'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "reach, reach out, stretch, stretch out, extend, stretch oneself, strive, drag on, crawl, wear on, hang heavy, move slowly, drift, try to equal, try to deep up, imitate, move one after the other, follow each other",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2445,
+    "word": "выпуска'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "release let out or set free, graduate, put out, turn out, to produce, to manufacture",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2447,
+    "word": "побыва'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "be at, be somewhere, visit, make a visit as an official, visit as a tourist, to stay, visit",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2448,
+    "word": "значи'тельно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "considerably, significantly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2450,
+    "word": "нево'льно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "unwittingly involuntarily",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2454,
+    "word": "ве'щий",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "prophetic",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2456,
+    "word": "ги'бель",
+    "type": "noun",
+    "level": "C1",
+    "translations": "death, destruction, loss, wreck, fall, downfall, ruin, masses, oceans, swarms",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2457,
+    "word": "сме'лый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "bold, brave, courageous",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2459,
+    "word": "уста'виться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "stare",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2460,
+    "word": "беспоко'иться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "worry, trouble, bother, to be anxious",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2462,
+    "word": "огонёк",
+    "type": "noun",
+    "level": "C1",
+    "translations": "(small) fire, , (little) flame / light (from a lighter etc.), spark",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2463,
+    "word": "докла'д",
+    "type": "noun",
+    "level": "C1",
+    "translations": "report, lecture, conference paper",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2464,
+    "word": "дрова'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "firewood",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2465,
+    "word": "после'дствие",
+    "type": "noun",
+    "level": "C1",
+    "translations": "consequence",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2466,
+    "word": "маха'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "wave, wag, flap",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2470,
+    "word": "бормота'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "mutter",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2474,
+    "word": "доро'жка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "trail / path, walkway, track, lane, band, strip of carpet (runner, rug), stair-carpet",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2476,
+    "word": "тя'жесть",
+    "type": "noun",
+    "level": "C1",
+    "translations": "weight, heaviness, gravity",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2477,
+    "word": "после'довать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to follow",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2478,
+    "word": "ча'стность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "particular, detail",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2479,
+    "word": "делово'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "(relational) business, business-like, practical",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2480,
+    "word": "совме'стный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "joint (combined into one)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2481,
+    "word": "противополо'жный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "opposite, contrary, opposed",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2486,
+    "word": "воображе'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "imagination",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2487,
+    "word": "описа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "describe, depict, portray, inventory, distrain, circumscribe",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2491,
+    "word": "ны'не",
+    "type": "other",
+    "level": "C1",
+    "translations": "(outdated) now",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2492,
+    "word": "развести'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "spread, dillute, disolve, start (fire), swindle, cheat",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2494,
+    "word": "отча'яние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "despair",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2496,
+    "word": "боло'то",
+    "type": "noun",
+    "level": "C1",
+    "translations": "swamp",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2497,
+    "word": "неве'домый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "unknown, unfamiliar, mysterious",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2498,
+    "word": "доноси'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "reach ears, be heard, waft",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2499,
+    "word": "во'время",
+    "type": "other",
+    "level": "C1",
+    "translations": "in time",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2501,
+    "word": "блесте'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to shine, to glitter, to sparkle, to flash, to glint, to make a brilliant display",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2506,
+    "word": "разбуди'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "wake",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2510,
+    "word": "дога'дываться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "guess (based on facts or knowledge), to surmise",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2511,
+    "word": "полага'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to rely on, to be supposed to (dat)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2512,
+    "word": "би'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "fight, knock, hit, strike, beat, struggle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2516,
+    "word": "испо'льзование",
+    "type": "noun",
+    "level": "C1",
+    "translations": "utilization, usage, using, utilisation",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2517,
+    "word": "допусти'мый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "admissible, permissible, acceptable",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2518,
+    "word": "кро'лик",
+    "type": "noun",
+    "level": "C1",
+    "translations": "rabbit",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2520,
+    "word": "содержа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to contain, to hold, keep, maintain, support",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2523,
+    "word": "внук",
+    "type": "noun",
+    "level": "C1",
+    "translations": "grandson, grandchild, descendant",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2524,
+    "word": "го'рдость",
+    "type": "noun",
+    "level": "C1",
+    "translations": "pride",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2525,
+    "word": "посреди'",
+    "type": "other",
+    "level": "C1",
+    "translations": "in the middle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2526,
+    "word": "получе'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "action of receiving, receipt, obtaining",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2527,
+    "word": "криво'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "curved (line), crooked",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2528,
+    "word": "стук",
+    "type": "noun",
+    "level": "C1",
+    "translations": "knock, tap, noise",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2532,
+    "word": "жесто'кий",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "cruel/brutal",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2533,
+    "word": "попра'вить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to correct or adjust",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2534,
+    "word": "меж",
+    "type": "other",
+    "level": "C1",
+    "translations": "between, betwixt, inter-",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2536,
+    "word": "полово'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "floor, sexual, sex, waiter in a tavern",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2538,
+    "word": "шку'ра",
+    "type": "noun",
+    "level": "C1",
+    "translations": "skin, hide, fell",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2539,
+    "word": "приглаша'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "invite, ask, call, engage",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2540,
+    "word": "заключе'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "conclusion, imprisonment",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2543,
+    "word": "ковёр",
+    "type": "noun",
+    "level": "C1",
+    "translations": "carpet",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2544,
+    "word": "обня'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to hug",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2545,
+    "word": "де",
+    "type": "other",
+    "level": "C1",
+    "translations": "where, they say... / he or she says... / allegedly...",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2546,
+    "word": "ко'йка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "cot/bunk bed",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2548,
+    "word": "недоста'ток",
+    "type": "noun",
+    "level": "C1",
+    "translations": "disadvantage, flaw, fault, shortcoming, weakness",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2550,
+    "word": "нали'чие",
+    "type": "noun",
+    "level": "C1",
+    "translations": "availability presence",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2553,
+    "word": "похо'д",
+    "type": "noun",
+    "level": "C1",
+    "translations": "march (physical), campaign, tour, hiking, camping",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2554,
+    "word": "учи'лище",
+    "type": "noun",
+    "level": "C1",
+    "translations": "academy",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2555,
+    "word": "заключа'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to conclude, consist, be",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2556,
+    "word": "сорва'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "take off, to pick up, tear off",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2558,
+    "word": "прибо'р",
+    "type": "noun",
+    "level": "C1",
+    "translations": "device, apparatus, instrument, set, fittings, cutlery",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2559,
+    "word": "вы'боры",
+    "type": "noun",
+    "level": "C1",
+    "translations": "elections",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2560,
+    "word": "обойти'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "go around, travel around, get around, evade, circumvent",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2562,
+    "word": "расстреля'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "execute by shooting, destroy by shooting from short distance, shoot away, use up bullets",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2564,
+    "word": "госуда'рь",
+    "type": "noun",
+    "level": "C1",
+    "translations": "sovereign, Your Majesty, Sire",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2565,
+    "word": "разобра'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "sort out, make out, figure out, understand, take apart, take to pieces, disassemble, dismantle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2566,
+    "word": "применя'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "apply employ use",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2570,
+    "word": "пожале'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "regret, feel sorry for, pity, spare, save",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2571,
+    "word": "исключи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "exclude, expell, rule out",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2573,
+    "word": "де'вка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "girl (slut), tart, strumpet",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2575,
+    "word": "патро'н",
+    "type": "noun",
+    "level": "C1",
+    "translations": "cartridge, ammunition, ammo, holder, socket, chuck",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2577,
+    "word": "два'жды",
+    "type": "other",
+    "level": "C1",
+    "translations": "twice, two times",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2578,
+    "word": "спекта'кль",
+    "type": "noun",
+    "level": "C1",
+    "translations": "play, performance",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2580,
+    "word": "хрен",
+    "type": "noun",
+    "level": "C1",
+    "translations": "horse-radish, horseradish, shit",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2581,
+    "word": "примене'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "application, use",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2582,
+    "word": "пла'вать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "swim, float, drift, sail, steam, navigate, boat",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2584,
+    "word": "желу'док",
+    "type": "noun",
+    "level": "C1",
+    "translations": "stomach",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2585,
+    "word": "ледяно'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "icе",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2586,
+    "word": "супру'г",
+    "type": "noun",
+    "level": "C1",
+    "translations": "male spouse",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2587,
+    "word": "потре'бность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "need, necessity, want",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2590,
+    "word": "док",
+    "type": "noun",
+    "level": "C1",
+    "translations": "dock",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2592,
+    "word": "сва'дьба",
+    "type": "noun",
+    "level": "C1",
+    "translations": "wedding",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2593,
+    "word": "сбить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to bring down or knock down, shoot down, cause to fall, shake down",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2594,
+    "word": "прижа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to press/squeeze to",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2596,
+    "word": "воспо'льзоваться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "avail oneself, profit, take advantage, appropriate",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2597,
+    "word": "про'бовать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to try (attempt), to taste (sample)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2600,
+    "word": "пережи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "survive, outlast, suffer through, experience",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2602,
+    "word": "му'ка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "torment torture suffering",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2603,
+    "word": "допусти'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to allow, to permit, to accept, to tolerate, to assume, to let happen",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2604,
+    "word": "хло'пнуть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "slam",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2605,
+    "word": "раскры'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "open expose reveal disclose lay bare",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2606,
+    "word": "класть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "put, lay, place, to put in place (to a lying down down position)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2608,
+    "word": "оторва'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "tear off, tear away, rip off",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2611,
+    "word": "полете'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "start to fly, fall, go headlong",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2612,
+    "word": "пригото'вить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "prepare, make ready, train, cook, make, lay in, provide oneself, have in store",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2613,
+    "word": "бочо'к",
+    "type": "noun",
+    "level": "C1",
+    "translations": "smaller side (flank)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2614,
+    "word": "запла'кать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "begin to cry",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2616,
+    "word": "ло'вко",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "skillfully / dexterously, cleverly / craftily",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2617,
+    "word": "сопровожда'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to accompany",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2620,
+    "word": "сиде'нье",
+    "type": "noun",
+    "level": "C1",
+    "translations": "seat",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2623,
+    "word": "прерва'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "interrupt, cut short, break off",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2625,
+    "word": "шуме'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "make noise",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2627,
+    "word": "прошепта'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "whisper",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2628,
+    "word": "таи'нственный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "mysterious",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2629,
+    "word": "пусты'ня",
+    "type": "noun",
+    "level": "C1",
+    "translations": "desert",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2630,
+    "word": "течь",
+    "type": "verb",
+    "level": "C1",
+    "translations": "flow, stream, leak",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2631,
+    "word": "ре'чка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "small river, brook, rivulet",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2633,
+    "word": "бревно'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "log, beam, dullard, numskull, balance beam",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2634,
+    "word": "торго'вый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "commercial/trade",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2635,
+    "word": "стрела'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "arrow",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2636,
+    "word": "укра'сть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "steal",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2640,
+    "word": "промы'шленность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "industry",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2641,
+    "word": "окружи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "surround",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2642,
+    "word": "посу'да",
+    "type": "noun",
+    "level": "C1",
+    "translations": "the dishes, tableware, crockery, vessel, crock",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2644,
+    "word": "суро'вый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "severe, harsh, tough, hard, stern, inclement, rigorous, stark",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2645,
+    "word": "разгляде'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to peer intently, (colloquial) to understand/figure out/discover",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2646,
+    "word": "служе'бный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "official/service",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2647,
+    "word": "го'рный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "mountain",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2648,
+    "word": "дурно'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "bad",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2649,
+    "word": "допро'с",
+    "type": "noun",
+    "level": "C1",
+    "translations": "interrogation, examination, questioning",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2650,
+    "word": "необыкнове'нный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "extraordinary",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2653,
+    "word": "ны'нче",
+    "type": "other",
+    "level": "C1",
+    "translations": "today, now",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2655,
+    "word": "доста'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to get, to fall into your hands (get with no effort)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2657,
+    "word": "загля'дывать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "glance, look in, peep in, drop in or drop by",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2658,
+    "word": "сво'йство",
+    "type": "noun",
+    "level": "C1",
+    "translations": "property",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2659,
+    "word": "заме'тный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "noticeable",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2660,
+    "word": "предпочита'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "To Prefer",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2661,
+    "word": "рва'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "break, burst, tear, long, be dying, strain",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2662,
+    "word": "кусо'чек",
+    "type": "noun",
+    "level": "C1",
+    "translations": "piece, slice",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2663,
+    "word": "су'дно",
+    "type": "noun",
+    "level": "C1",
+    "translations": "large ship, vessel, tanker, cargo boat, bedpan, bed pan",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2665,
+    "word": "относи'тельно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "relatively, about, quite, relating to, concerning",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2668,
+    "word": "собесе'дник",
+    "type": "noun",
+    "level": "C1",
+    "translations": "conversation partner, interlocutor",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2670,
+    "word": "возража'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to object or disagree",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2671,
+    "word": "кра'йне",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "extremely",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2673,
+    "word": "пережива'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "worry or be upset (imperfective only), experience, go through, suffer, endure, survive, outlast, outlive",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2674,
+    "word": "гро'хот",
+    "type": "noun",
+    "level": "C1",
+    "translations": "crash roar rumble rattle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2676,
+    "word": "мак",
+    "type": "noun",
+    "level": "C1",
+    "translations": "poppy, poppy-seed",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2677,
+    "word": "уче'сть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "take into account(= to remember something)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2679,
+    "word": "перегово'ры",
+    "type": "noun",
+    "level": "C1",
+    "translations": "negotiations, talks, parley",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2680,
+    "word": "выступле'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "performance",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2681,
+    "word": "охо'тно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "with pleasure, willingly, readily, gladly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2682,
+    "word": "неприя'тность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "trouble, an unpleasant or unwanted event",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2683,
+    "word": "вы'разить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "express",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2684,
+    "word": "торго'вля",
+    "type": "noun",
+    "level": "C1",
+    "translations": "trade, commerce",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2687,
+    "word": "справедли'вость",
+    "type": "noun",
+    "level": "C1",
+    "translations": "justice, equity, fairness, truth, correctness",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2689,
+    "word": "развива'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "develop, grow, evolve, unfold",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2690,
+    "word": "неве'ста",
+    "type": "noun",
+    "level": "C1",
+    "translations": "bride, fiancee",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2691,
+    "word": "ру'копись",
+    "type": "noun",
+    "level": "C1",
+    "translations": "manuscript, typescript, copy",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2692,
+    "word": "грома'дный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "huge",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2696,
+    "word": "экспеди'ция",
+    "type": "noun",
+    "level": "C1",
+    "translations": "expedition, dispatch office",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2697,
+    "word": "сне'жный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "snow, snowy",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2699,
+    "word": "устро'иться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "get a job, gain employment, get oneself, arrange oneself",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2700,
+    "word": "кома'ндовать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "give orders",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2701,
+    "word": "внутрь",
+    "type": "other",
+    "level": "C1",
+    "translations": "inside, inwards, in",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2702,
+    "word": "ду'ра",
+    "type": "noun",
+    "level": "C1",
+    "translations": "fool, idiot, stupid woman, (Jargon)pistol",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2703,
+    "word": "вздро'гнуть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to shudder, to flinch",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2705,
+    "word": "запере'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "lock",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2706,
+    "word": "разбира'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "To be knowledgeable in, To be well versed in, To figure out",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2707,
+    "word": "обману'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "deceive, cheat, trick, swindle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2708,
+    "word": "кры'шка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "lid",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2709,
+    "word": "владе'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to own or wield, have full control over",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2711,
+    "word": "сара'й",
+    "type": "noun",
+    "level": "C1",
+    "translations": "shed, barn",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2712,
+    "word": "конто'ра",
+    "type": "noun",
+    "level": "C1",
+    "translations": "office",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2713,
+    "word": "отре'зать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "cut off, snip off, snap out, cut short",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2716,
+    "word": "ру'хнуть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "crash down, tumble down, collapse, be destroyed, fall to the ground",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2718,
+    "word": "дья'вол",
+    "type": "noun",
+    "level": "C1",
+    "translations": "devil",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2719,
+    "word": "рассве'т",
+    "type": "noun",
+    "level": "C1",
+    "translations": "dawn",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2722,
+    "word": "сплошно'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "continuous and solid",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2723,
+    "word": "обме'н",
+    "type": "noun",
+    "level": "C1",
+    "translations": "exchange",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2725,
+    "word": "провожа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to escort, to accompany, see off, say goodbye",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2731,
+    "word": "осмотре'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "examine / explore, survey, view, scan, see, inspect, to look around",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2733,
+    "word": "усну'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to fall asleep",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2737,
+    "word": "огляде'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to look over/examine/look all around something",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2738,
+    "word": "блеск",
+    "type": "noun",
+    "level": "C1",
+    "translations": "shine, glare, glitter, brilliance, , radiance, lustre, luster",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2740,
+    "word": "прове'рка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "check-up control or examination",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2741,
+    "word": "негро'мко",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "quietly, softly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2742,
+    "word": "восьмо'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "eighth",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2744,
+    "word": "пря'таться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "hide",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2745,
+    "word": "лопа'та",
+    "type": "noun",
+    "level": "C1",
+    "translations": "Shovel",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2746,
+    "word": "ра'нить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to injure",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2747,
+    "word": "наде'л",
+    "type": "noun",
+    "level": "C1",
+    "translations": "allotment, share, plot of land, ",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2748,
+    "word": "пита'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "nourishment, nutrition",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2750,
+    "word": "неторопли'вый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "leisurely or unhurried",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2753,
+    "word": "посторо'нний",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "strange/outside, stranger/ outsider",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2755,
+    "word": "накану'не",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "the day before, on the eve, just before",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2756,
+    "word": "трус",
+    "type": "noun",
+    "level": "C1",
+    "translations": "coward, (obsolete) earthquake",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2757,
+    "word": "трудово'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "labor/working",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2759,
+    "word": "чрезвыча'йно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "extraordinarily, extremely, utterly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2761,
+    "word": "научи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "teach",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2763,
+    "word": "подчеркну'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "underline, stress, emphasize",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2764,
+    "word": "успоко'ить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "calm down",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2766,
+    "word": "цех",
+    "type": "noun",
+    "level": "C1",
+    "translations": "shop/workshop, the main production unit of an industrial enterprise",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2769,
+    "word": "ступе'нька",
+    "type": "noun",
+    "level": "C1",
+    "translations": "step, rung",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2770,
+    "word": "вы'ставка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "exhibition",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2771,
+    "word": "оконча'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "termination, finishing, end, ending, graduation",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2772,
+    "word": "лома'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "break, fracture, quarry",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2775,
+    "word": "сбро'сить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to throw off, to throw down, to drop, to shed, to reduce, to lose, to reset",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2776,
+    "word": "всео'бщий",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "in general, in general terms, general, universal",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2778,
+    "word": "се'но",
+    "type": "noun",
+    "level": "C1",
+    "translations": "hay",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2781,
+    "word": "перенести'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "carry across, postpone, undergo, reschedule, to bear, to endure, to stand, to survive, to withstand",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2782,
+    "word": "че'тверо",
+    "type": "other",
+    "level": "C1",
+    "translations": "four",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2783,
+    "word": "пря'тать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to hide",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2784,
+    "word": "мо'лния",
+    "type": "noun",
+    "level": "C1",
+    "translations": "lightning, zipper, zip-fastener, express-telegram, news-flash",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2785,
+    "word": "разверну'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "unfold, unwrap, position, deploy, manifest, develop, elaborate, explain fully, organize, establish, undertake, turn around, turn (an opinion)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2786,
+    "word": "засы'пать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "fill up",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2787,
+    "word": "нажа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "press push",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2789,
+    "word": "глото'к",
+    "type": "noun",
+    "level": "C1",
+    "translations": "drink, sip",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2791,
+    "word": "поми'мо",
+    "type": "other",
+    "level": "C1",
+    "translations": "besides, aside from, apart from",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2795,
+    "word": "сла'вный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "glorious, nice, famous, renowned",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2796,
+    "word": "сложи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "Stack, Fold, Add, to pack up",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2797,
+    "word": "свида'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "date",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2798,
+    "word": "брак",
+    "type": "noun",
+    "level": "C1",
+    "translations": "marriage",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2799,
+    "word": "глазо'к",
+    "type": "noun",
+    "level": "C1",
+    "translations": "peephole, eye diminutive",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2800,
+    "word": "свинья'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "pig, swine, hog, sow, boar",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2801,
+    "word": "руба'ха",
+    "type": "noun",
+    "level": "C1",
+    "translations": "shirt",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2804,
+    "word": "наме'рение",
+    "type": "noun",
+    "level": "C1",
+    "translations": "intention, purpose",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2805,
+    "word": "гру'стно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "it is sad, sadly, sorrowfully",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2806,
+    "word": "плод",
+    "type": "noun",
+    "level": "C1",
+    "translations": "fruit, offspring",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2807,
+    "word": "рубе'ж",
+    "type": "noun",
+    "level": "C1",
+    "translations": "boundary border abroad",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2809,
+    "word": "прояви'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "show display manifest reveal",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2810,
+    "word": "соотве'тствовать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "suit conform be consistent with, match correspond to, to comply/be in line with",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2811,
+    "word": "но'жка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "leg (diminutive), stem, stalk",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2813,
+    "word": "прохо'д",
+    "type": "noun",
+    "level": "C1",
+    "translations": "passage passageway",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2815,
+    "word": "происхожде'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "origin",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2817,
+    "word": "замени'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to replace",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2819,
+    "word": "ми'новать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "pass, be over",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2820,
+    "word": "слыха'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to hear of, hear from, hear",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2821,
+    "word": "достиже'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "achievement",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2822,
+    "word": "вы'ехать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "leave, move, break, train",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2823,
+    "word": "проявле'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "manifestation",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2824,
+    "word": "цивилиза'ция",
+    "type": "noun",
+    "level": "C1",
+    "translations": "civilization, civilisation",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2825,
+    "word": "кива'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to nod",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2827,
+    "word": "вы'тянуть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "draw out, extract, pull out, stretch out, hold out",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2828,
+    "word": "око'п",
+    "type": "noun",
+    "level": "C1",
+    "translations": "trench",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2829,
+    "word": "поцелова'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "kiss, give a kiss",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2830,
+    "word": "надёжный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "reliable",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2831,
+    "word": "лишённый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "lacking/deprived",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2832,
+    "word": "ве'жливо",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "politely, courteously",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2833,
+    "word": "нело'вко",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "awkwardly, embarrassed",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2835,
+    "word": "грози'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "threaten",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2836,
+    "word": "тво'рчество",
+    "type": "noun",
+    "level": "C1",
+    "translations": "creativity, creative work",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2837,
+    "word": "храни'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to keep, to protect, to guard",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2838,
+    "word": "шевели'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to move or have ability to move",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2843,
+    "word": "си'дя",
+    "type": "other",
+    "level": "C1",
+    "translations": "sitting",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2844,
+    "word": "достава'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to get",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2845,
+    "word": "броса'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "throw oneself, rush, throw at each other, disdain, catch",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2846,
+    "word": "определя'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to define",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2847,
+    "word": "заключи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "make/conclude/enter into",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2849,
+    "word": "убежа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "run away, boil over",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2851,
+    "word": "мале'йший",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "the least, the slightest",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2852,
+    "word": "доходи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "reach, touch, move, be done, ripen, amount",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2853,
+    "word": "визи'т",
+    "type": "noun",
+    "level": "C1",
+    "translations": "visit, call",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2855,
+    "word": "всерьёз",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "serious, seriously",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2856,
+    "word": "посове'товать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "advise, counsel",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2857,
+    "word": "учрежде'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "institution",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2858,
+    "word": "успева'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to have time, to manage to do",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2859,
+    "word": "на'ция",
+    "type": "noun",
+    "level": "C1",
+    "translations": "nation, people",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2860,
+    "word": "при'быль",
+    "type": "noun",
+    "level": "C1",
+    "translations": "profit",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2862,
+    "word": "свети'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "shine, attract attention",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2864,
+    "word": "вели'чество",
+    "type": "noun",
+    "level": "C1",
+    "translations": "majesty",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2865,
+    "word": "сто'имость",
+    "type": "noun",
+    "level": "C1",
+    "translations": "cost, value",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2867,
+    "word": "впосле'дствии",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "subsequently",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2868,
+    "word": "рвать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to tear, (colloquial) to vomit",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2869,
+    "word": "сообража'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to figure out [something]",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2870,
+    "word": "реша'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "decide, determine, resolve, bring oneself, be determined, venture, be solved",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2871,
+    "word": "страда'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "suffering",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2872,
+    "word": "постуча'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "knock, rap",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2873,
+    "word": "походи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to look like, to resemble, be similar to",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2874,
+    "word": "я'вный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "evident, obvious, manifest, patent, explicit",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2875,
+    "word": "превраща'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "turn into, become, change",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2876,
+    "word": "вина'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "fault",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2877,
+    "word": "ве'дьма",
+    "type": "noun",
+    "level": "C1",
+    "translations": "witch, vixen, hag, harridan",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2878,
+    "word": "зави'симость",
+    "type": "noun",
+    "level": "C1",
+    "translations": "addiction, dependence, dependency, connection",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2879,
+    "word": "сбежа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "escape, run away",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2880,
+    "word": "рису'нок",
+    "type": "noun",
+    "level": "C1",
+    "translations": "drawing/picture",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2882,
+    "word": "отню'дь",
+    "type": "other",
+    "level": "C1",
+    "translations": "by no means, not at all",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2883,
+    "word": "но'готь",
+    "type": "noun",
+    "level": "C1",
+    "translations": "nail, finger-nail, thumb-nail, toe-nail",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2884,
+    "word": "ложь",
+    "type": "noun",
+    "level": "C1",
+    "translations": "lie, falsehood",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2885,
+    "word": "соображе'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "consideration, reasons",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2886,
+    "word": "бело'к",
+    "type": "noun",
+    "level": "C1",
+    "translations": "white, egg-white, albumen, protein",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2887,
+    "word": "пло'ский",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "flat",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2888,
+    "word": "повыше'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "increase, promotion",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2889,
+    "word": "дли'тельный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "long, protracted, prolonged, lingering",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2890,
+    "word": "прису'тствовать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to attend, to be present",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2892,
+    "word": "охвати'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to grip, to encompass",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2893,
+    "word": "вспы'хнуть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "blaze up, take fire, break out, flash, flare up, blush, flush",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2894,
+    "word": "папиро'са",
+    "type": "noun",
+    "level": "C1",
+    "translations": "papirosa (cigarette)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2895,
+    "word": "тря'пка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "rag",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2896,
+    "word": "баро'н",
+    "type": "noun",
+    "level": "C1",
+    "translations": "baron",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2897,
+    "word": "посети'тель",
+    "type": "noun",
+    "level": "C1",
+    "translations": "visitor",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2898,
+    "word": "переме'на",
+    "type": "noun",
+    "level": "C1",
+    "translations": "change, transition",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2899,
+    "word": "дереве'нский",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "rural, village",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2900,
+    "word": "хохота'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "laugh (loudly, heartily)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2901,
+    "word": "ки'нуться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "rush",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2902,
+    "word": "неподалёку",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "not far away",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2903,
+    "word": "исходи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "issue, come from, originate, proceed, explore",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2904,
+    "word": "ла'сково",
+    "type": "other",
+    "level": "C1",
+    "translations": "affectionately, sweetly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2905,
+    "word": "плита'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "stove, cooker, plate, slab, flag, flagstone, range, ",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2906,
+    "word": "испыта'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "try, test, experience feel",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2907,
+    "word": "смени'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "change, replace",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2908,
+    "word": "разойти'сь",
+    "type": "verb",
+    "level": "C1",
+    "translations": "diverge, split up, break up",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2911,
+    "word": "окружа'ющее",
+    "type": "noun",
+    "level": "C1",
+    "translations": "Environment, surrounding, surrounds, other",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2913,
+    "word": "серди'то",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "angrily",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2915,
+    "word": "предупрежда'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to warn, let know beforehand, to forestall, anticipate, to avert, prevent, to notify",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2916,
+    "word": "рассмея'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "begin to laugh burst out laughing",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2917,
+    "word": "вдвоём",
+    "type": "other",
+    "level": "C1",
+    "translations": "you and me, together",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2919,
+    "word": "чте'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "reading",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2920,
+    "word": "объём",
+    "type": "noun",
+    "level": "C1",
+    "translations": "volume, capacity, size, extend, scope",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2921,
+    "word": "исполне'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "fulfilment/performance/execution",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2924,
+    "word": "по'двиг",
+    "type": "noun",
+    "level": "C1",
+    "translations": "exploit, feat, deed",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2926,
+    "word": "возде'йствие",
+    "type": "noun",
+    "level": "C1",
+    "translations": "impact",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2929,
+    "word": "стально'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "steel",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2930,
+    "word": "наказа'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "punishment",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2931,
+    "word": "гото'вность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "readiness, preparedness, willingness",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2935,
+    "word": "жи'рный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "fat plump greasy (adj)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2936,
+    "word": "слуга'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "servant, servitor, valet, houseboy.",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2937,
+    "word": "спосо'бствовать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to contribute to something, help (to promote further), makes capable/makes possible",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2941,
+    "word": "сбор",
+    "type": "noun",
+    "level": "C1",
+    "translations": "collection, gathering, accumulation, assemblage, meeting, get-together, dues, tax, duty, takings, tithes, picking, harvest",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2942,
+    "word": "горди'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to be proud",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2946,
+    "word": "пеще'ра",
+    "type": "noun",
+    "level": "C1",
+    "translations": "cave, cavern, grotto",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2947,
+    "word": "тротуа'р",
+    "type": "noun",
+    "level": "C1",
+    "translations": "pavement sidewalk",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2950,
+    "word": "подзе'мный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "underground",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2952,
+    "word": "переу'лок",
+    "type": "noun",
+    "level": "C1",
+    "translations": "side-street / alley, lane",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2953,
+    "word": "препара'т",
+    "type": "noun",
+    "level": "C1",
+    "translations": "medication, drug",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2955,
+    "word": "совеща'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "meeting (серьёзное)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2958,
+    "word": "тыл",
+    "type": "noun",
+    "level": "C1",
+    "translations": "rear",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2959,
+    "word": "рассужда'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "reason, argue, think, To judge",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2960,
+    "word": "отчё'тливо",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "clearly, vividly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2961,
+    "word": "бра'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to take on, to come from",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2962,
+    "word": "помеша'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "interfere, disturb, hinder, get in the way",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2963,
+    "word": "нести'сь",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to move flow or pass quickly, to lay eggs, to be spread or carried",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2964,
+    "word": "наря'д",
+    "type": "noun",
+    "level": "C1",
+    "translations": "outfit",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2965,
+    "word": "сове'тник",
+    "type": "noun",
+    "level": "C1",
+    "translations": "adviser, counsellor, councillor",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2967,
+    "word": "очну'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "come to (regain consciousness)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2968,
+    "word": "догна'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "catch up, overtake, come up, run down, overhaul",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2969,
+    "word": "жа'лость",
+    "type": "noun",
+    "level": "C1",
+    "translations": "pity, compassion",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2971,
+    "word": "ра'достный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "glad/joyous/joyful",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2972,
+    "word": "люк",
+    "type": "noun",
+    "level": "C1",
+    "translations": "hatchway, hatch, trap",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2977,
+    "word": "окруже'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "surroundings",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2979,
+    "word": "операти'вный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "efficient, prompt, surgical, strategical, squad, patrol, operational, operative, operation",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2980,
+    "word": "прочь",
+    "type": "other",
+    "level": "C1",
+    "translations": "away /  off, aside, not be averse to (to consider), have no objection to",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2984,
+    "word": "сорва'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to break free from (hook leash etc), having broken off to separate or fall",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2985,
+    "word": "слепо'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "blind",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2987,
+    "word": "вы'делить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "allocate, pick out, choose, single out, allot, ear-mark, detach, find, provide, apportion, mark out, distinguish, secrete, excrete, discharge, exude, educe, isolate, highlight",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2988,
+    "word": "приёмный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "relating to reception/admission (adj), foster care",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2989,
+    "word": "подходя'щий",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "suitable, proper, appropriate",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2990,
+    "word": "оле'нь",
+    "type": "noun",
+    "level": "C1",
+    "translations": "deer, reindeer, Dumbass, retard",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2992,
+    "word": "изобража'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "depict",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2993,
+    "word": "заложи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "pawn, to lay forth, create, establish, mortgage, rat-out, betray, plant, put",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2996,
+    "word": "отыска'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to find (by searching), , to track down / to look for, to search",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2998,
+    "word": "разры'в",
+    "type": "noun",
+    "level": "C1",
+    "translations": "break, gap, rupture: divide",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 2999,
+    "word": "сосна'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "pine",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3000,
+    "word": "ба'рин",
+    "type": "noun",
+    "level": "C1",
+    "translations": "grand gentleman, lord of the manor, barin, master, lord",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3002,
+    "word": "поспе'шно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "in a hurry, hurriedly, hastily",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3004,
+    "word": "соедини'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "join, unite, connect, put through, combine",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3005,
+    "word": "нападе'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "attack or assault on someone",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3008,
+    "word": "руга'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "swear, curse, use bad language, quarrel, fight, argue, call names, abuse each other, swear at each other",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3009,
+    "word": "зада'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "ask, give, set, pose",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3010,
+    "word": "мы'ло",
+    "type": "noun",
+    "level": "C1",
+    "translations": "soap, foam, lather",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3012,
+    "word": "вози'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "mess around, tinker/fiddle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3014,
+    "word": "напра'сно",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "in vain, for nothing, uselessly, to no purpose",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3016,
+    "word": "ла'вка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "bench, long seat without a back, (small) store, shop",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3017,
+    "word": "рассмотре'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "consider, examine",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3018,
+    "word": "соглаша'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "consent, agree, assent, concur, concede",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3019,
+    "word": "приме'та",
+    "type": "noun",
+    "level": "C1",
+    "translations": "sign (omen)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3020,
+    "word": "уста'лость",
+    "type": "noun",
+    "level": "C1",
+    "translations": "tiredness, fatigue, exhaustion",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3021,
+    "word": "величина'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "size/magnitude/value, about a person very big in a field",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3022,
+    "word": "съезд",
+    "type": "noun",
+    "level": "C1",
+    "translations": "congressional meeting",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3023,
+    "word": "выража'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "express",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3025,
+    "word": "бо'цман",
+    "type": "noun",
+    "level": "C1",
+    "translations": "boatswain, bosun, boatsman, boatman",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3026,
+    "word": "образова'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "form",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3027,
+    "word": "свеча'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "candle, light, candle-power (candela), plugs, suppository",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3028,
+    "word": "болта'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "babble, chat, chitchat, yap, gossip, stir, shake, rock, dangle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3030,
+    "word": "асфа'льт",
+    "type": "noun",
+    "level": "C1",
+    "translations": "asphalt",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3032,
+    "word": "вы'лезть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "come out, climb out, scramble out, crawl out, get out, alight, fall out",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3035,
+    "word": "сто'я",
+    "type": "other",
+    "level": "C1",
+    "translations": "upright",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3036,
+    "word": "обраще'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "request appeal address, handling treatment manners",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3040,
+    "word": "бесе'довать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to converse, to talk, to chat, to speak to",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3041,
+    "word": "приподня'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to slightly raise/lift something",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3042,
+    "word": "приключе'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "adventure",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3047,
+    "word": "полево'й",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "field",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3049,
+    "word": "тро'нуть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "touch, move (emotionally)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3050,
+    "word": "вла'жный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "humid, moist",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3052,
+    "word": "це'нный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "valuable",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3057,
+    "word": "спра'вка",
+    "type": "noun",
+    "level": "C1",
+    "translations": "reference, certificate",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3059,
+    "word": "попада'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to get caught, to get hit, come across",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3060,
+    "word": "гнев",
+    "type": "noun",
+    "level": "C1",
+    "translations": "anger",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3061,
+    "word": "по'чва",
+    "type": "noun",
+    "level": "C1",
+    "translations": "soil",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3063,
+    "word": "рог",
+    "type": "noun",
+    "level": "C1",
+    "translations": "horn / antler, bugle, hunting-horn",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3065,
+    "word": "колду'н",
+    "type": "noun",
+    "level": "C1",
+    "translations": "sorcerer, magician, wizard",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3067,
+    "word": "после'дующий",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "following, subsequent, posterior, next, consequent",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3068,
+    "word": "наде'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "put on",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3070,
+    "word": "сочине'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "work, writing, composition, co-ordination, essay",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3071,
+    "word": "сопротивле'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "resistance",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3072,
+    "word": "мча'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "rush, hurry, to race",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3075,
+    "word": "доли'на",
+    "type": "noun",
+    "level": "C1",
+    "translations": "valley, vale, dale",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3078,
+    "word": "изда'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "publication, edition",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3081,
+    "word": "око'шко",
+    "type": "noun",
+    "level": "C1",
+    "translations": "(small) window, counter window",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3084,
+    "word": "змея'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "snake, serpent",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3085,
+    "word": "рай",
+    "type": "noun",
+    "level": "C1",
+    "translations": "paradise",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3086,
+    "word": "уложи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to lay down or put to sleep",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3087,
+    "word": "проспе'кт",
+    "type": "noun",
+    "level": "C1",
+    "translations": "avenue, prospectus, booklet, folder",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3092,
+    "word": "несча'стье",
+    "type": "noun",
+    "level": "C1",
+    "translations": "misfortune, mishap, accident",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3095,
+    "word": "покрасне'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "redden, become red, flush, turn red in the face, blush, show red",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3096,
+    "word": "спасе'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "rescue, saving, salvation, reprieve, lifesaver",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3097,
+    "word": "подоко'нник",
+    "type": "noun",
+    "level": "C1",
+    "translations": "windowsill",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3098,
+    "word": "непра'вильный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "irregular wrong incorrect",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3099,
+    "word": "подъём",
+    "type": "noun",
+    "level": "C1",
+    "translations": "lifting, rising, climb, hoisting, salvaging, ascent, climb, slope, rise, raising, upsurge, enthusiasm, development, animation, reveille, instep",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3101,
+    "word": "и'зредка",
+    "type": "other",
+    "level": "C1",
+    "translations": "now and then rarely seldom",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3102,
+    "word": "вы'пасть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "fall from, fall out, slip out, come out, fall, occur, turn out, happen to be, fall on date, stand a chance",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3103,
+    "word": "призна'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "acknowledgement recognition, confession",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3105,
+    "word": "сове'товать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "advise, counsel",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3106,
+    "word": "вы'рвать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "take out, remove, vomit, puke, throw up",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3109,
+    "word": "гуде'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "buzz, drone, hoot, honk",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3111,
+    "word": "сжечь",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to burn, incinerate, destroy or harm with fire",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3114,
+    "word": "включа'я",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "including, included",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3116,
+    "word": "ра'нее",
+    "type": "other",
+    "level": "C1",
+    "translations": "before, previously, earlier",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3117,
+    "word": "нару'шить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "break, disturb, infringe, transgress, violate, break a promise, to disrupt",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3119,
+    "word": "толкну'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "push, shove, jog, push on, incite, instigate",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3120,
+    "word": "прили'чный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "decent, proper, respectable, quite significant, rather large",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3123,
+    "word": "те'сный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "tight, close, narrow, small, cramped",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3127,
+    "word": "стремле'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "aspiration, striving, yearning, urge / desire, wish",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3128,
+    "word": "облегче'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "relief",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3129,
+    "word": "пропада'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "disappear, slip away, slip through",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3130,
+    "word": "вста'вить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to insert, put in, to paste",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3131,
+    "word": "бара'к",
+    "type": "noun",
+    "level": "C1",
+    "translations": "barrack, hut",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3132,
+    "word": "заслужи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to deserve",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3133,
+    "word": "целова'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "kiss, give a kiss",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3134,
+    "word": "глу'по",
+    "type": "adverb",
+    "level": "C1",
+    "translations": "foolishly, it is stupid, it is silly, stupidly",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3136,
+    "word": "подозре'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "suspicion",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3137,
+    "word": "гру'стный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "sad, sorrowful",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3138,
+    "word": "пообеща'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to promise",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3139,
+    "word": "наклони'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "lean, bend over",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3140,
+    "word": "де'ятель",
+    "type": "noun",
+    "level": "C1",
+    "translations": "figurе, doer or actor, personality",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3143,
+    "word": "отходи'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "leave, pull out, deviate, diverge, fall back, step aside, walk away, be dying, come to oneself, be all right again",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3144,
+    "word": "руче'й",
+    "type": "noun",
+    "level": "C1",
+    "translations": "stream",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3145,
+    "word": "отсу'тствовать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "be absent, default",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3146,
+    "word": "небо'сь",
+    "type": "other",
+    "level": "C1",
+    "translations": "certainly, must be",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3148,
+    "word": "вы'играть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "win",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3149,
+    "word": "обще'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "communication",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3151,
+    "word": "мелькну'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to flash",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3152,
+    "word": "обора'чиваться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to turn around, to look back",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3153,
+    "word": "чуде'сный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "wonderful, lovely, nice, miraculous, beautiful, marvellous",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3155,
+    "word": "трясти'сь",
+    "type": "verb",
+    "level": "C1",
+    "translations": "shake, tremble, shiver, be jolted, jog",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3156,
+    "word": "соотве'тствие",
+    "type": "noun",
+    "level": "C1",
+    "translations": "accordance/conformity/compliance/correspondence",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3158,
+    "word": "показа'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "testimony, evidence, statement, deposition, affidavit, reading, indication",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3159,
+    "word": "испу'ганно",
+    "type": "other",
+    "level": "C1",
+    "translations": "scared, startled, terrified",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3161,
+    "word": "ре'зать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "cut, slice, operate, kill, slaughter, knife, carve, engrave, pluck, chop",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3162,
+    "word": "испыта'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "test, examination, testing, trials and tribulations, ordeal, experience, trial (experiment)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3164,
+    "word": "потрясти'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "shake, shock",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3166,
+    "word": "удержа'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to restrain oneself/to help it/to keep yourself from",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3169,
+    "word": "че'люсть",
+    "type": "noun",
+    "level": "C1",
+    "translations": "jaw, maxilla",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3170,
+    "word": "опаса'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to fear, to beware of",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3171,
+    "word": "отобра'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "take away, choose, select, pick out",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3172,
+    "word": "ночева'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "spend the night",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3175,
+    "word": "тра'тить",
+    "type": "verb",
+    "level": "C1",
+    "translations": "spend, expend, to waste",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3176,
+    "word": "понести'",
+    "type": "verb",
+    "level": "C1",
+    "translations": "bear, carry, perform, bring, lay",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3177,
+    "word": "недово'льный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "dissatisfied",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3180,
+    "word": "оско'лок",
+    "type": "noun",
+    "level": "C1",
+    "translations": "shard fragment splinter",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3184,
+    "word": "во'льный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "free unrestricted (with regards to will)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3185,
+    "word": "зага'дочный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "mysterious/enigmatic/unclear/incomprehensible",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3188,
+    "word": "заключённый",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "imprisoned, sealed, concluded",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3190,
+    "word": "угада'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "guess (at random)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3192,
+    "word": "доверя'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "trust, commit, entrust, confide, give credence",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3193,
+    "word": "разу'мный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "reasonable",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3195,
+    "word": "растеря'ться",
+    "type": "verb",
+    "level": "C1",
+    "translations": "To lose the ability to think not to know how to act to be at a loss, To get lost to disappear one after another (about many subjects)",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3201,
+    "word": "засты'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to thicken up, set congeal, harden, freeze",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3203,
+    "word": "сметь",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to dare",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3204,
+    "word": "ген",
+    "type": "noun",
+    "level": "C1",
+    "translations": "gene",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3205,
+    "word": "мы'шца",
+    "type": "noun",
+    "level": "C1",
+    "translations": "muscle",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3206,
+    "word": "благода'рность",
+    "type": "noun",
+    "level": "C1",
+    "translations": "gratitude",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3207,
+    "word": "щёлкнуть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "click, crack, pop, flick, fillip, trill, jug, snap",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3210,
+    "word": "уголо'вный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "criminal, penal",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3212,
+    "word": "пу'говица",
+    "type": "noun",
+    "level": "C1",
+    "translations": "button",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3213,
+    "word": "по'длинный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "original, authentic, genuine, true, real, pure",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 3216,
+    "word": "наступле'ние",
+    "type": "noun",
+    "level": "C1",
+    "translations": "arrival or onset, attack",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 58501,
+    "word": "засыпа'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "fall asleep",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 58505,
+    "word": "мука'",
+    "type": "noun",
+    "level": "C1",
+    "translations": "flour, meal",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 58507,
+    "word": "опи'сать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "to pee on someone",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 58587,
+    "word": "оцени'ть",
+    "type": "verb",
+    "level": "C1",
+    "translations": "appreciate, set the price, state the value, value, appraise, estimate, value, assess, to rate/to evaluate",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 58592,
+    "word": "пропа'дать",
+    "type": "verb",
+    "level": "C1",
+    "translations": "be missing, be lost, disappear, vanish, die, pass, perish, be wasted",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 60439,
+    "word": "батопо'рт",
+    "type": "noun",
+    "level": "C1",
+    "translations": "floating gate (of a dry dock), caisson gate",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  },
+  {
+    "wordId": 60485,
+    "word": "хлебосо'льный",
+    "type": "adjective",
+    "level": "C1",
+    "translations": "hospitable",
+    "stage": 1,
+    "reviewDate": null,
+    "lastSeen": null
+  }
+]
