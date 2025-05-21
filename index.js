@@ -1,6 +1,7 @@
 const express = require('express')
 const app  = express()
 
+
 app.use(express.json({limit: '30mb', extended: true}));
 app.use(require('cors')())
 
@@ -11,7 +12,7 @@ const Word = require('./modules/Word');
 
 
 app.get('/', (req, res) => res.send({succces: true, message: 'Server working', v: '1.0.0'}))
-app.use('/api/words', )
+app.use('/api/words', require('./router/word'))
 
 
 const port = process.env.PORT || 8080
